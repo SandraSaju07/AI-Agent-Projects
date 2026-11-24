@@ -1,3 +1,3 @@
 # Local AI Agent using Python (Llama, LangChain & RAG)
 
-This is a local AI Agent using Python.
+This is a local AI Agent using Python. Build using Llama model, LangChain framework and RAG.
